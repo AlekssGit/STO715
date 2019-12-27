@@ -1,3 +1,4 @@
+<head>
 <style>
 img {
   display: block;
@@ -5,7 +6,7 @@ img {
   margin-right: auto;
 }
 </style>
-
+</head>
 # STO715
  
 <p align="center">
