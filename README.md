@@ -1,12 +1,3 @@
-<head>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
 # STO715
  
 <p align="center">
@@ -14,6 +5,7 @@ img {
 </p>
 <p align="center"> Main screen </p>
 
+<p align="center">
 <img src="https://github.com/AlekssGit/STO715/blob/master/Screens/Advanced.png">
 <p align="center"> Advanced screen </p>
 
