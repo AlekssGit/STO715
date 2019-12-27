@@ -1,8 +1,8 @@
 # STO715
  
- <p align="center">
+<p align="center">
  
-	<img width="300" height="300" src="https://github.com/AlekssGit/STO715/blob/master/Screens/Main.png">
+<img width="300" height="300" src="https://github.com/AlekssGit/STO715/blob/master/Screens/Main.png">
 
 ![alt text](https://github.com/AlekssGit/STO715/blob/master/Screens/Main.png "Main screen")
 
