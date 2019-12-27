@@ -5,6 +5,6 @@
 </p>
 <p align="center"> Main screen </p>
 
-<img align="center" src="https://github.com/AlekssGit/STO715/blob/master/Screens/Advanced.png" alt="Advanced">
+<img src="https://github.com/AlekssGit/STO715/blob/master/Screens/Advanced.png" align="middle">
 <p align="center"> Advanced screen </p>
 
